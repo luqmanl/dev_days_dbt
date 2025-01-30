@@ -1,6 +1,6 @@
 version: 2
 
 sources:
-  - name: DBTDEMO
+  - name: LUQMAN
     tables:
       - name: WEB_EVENTS
