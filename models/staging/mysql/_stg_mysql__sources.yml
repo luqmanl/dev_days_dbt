@@ -3,7 +3,7 @@ version: 2
 sources:
   - name: LUQMAN
     tables:
-      - name: ITEM
-      - name: LINE_ITEM
-      - name: PURCHASE
-      - name: USER_INFO
+      - name: LUQMAN_ITEM
+      - name: LUQMAN_LINE_ITEM
+      - name: LUQMAN_PURCHASE
+      - name: LUQMAN_USER_INFO

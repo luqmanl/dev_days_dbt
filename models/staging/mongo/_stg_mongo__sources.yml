@@ -3,4 +3,4 @@ version: 2
 sources:
   - name: LUQMAN
     tables:
-      - name: WEB_EVENTS
+      - name: LUQMAN_WEB_EVENTS
