@@ -4,6 +4,7 @@ version: 2
 models:
   - name: logins_by_user
   - name: spend_per_user
+  - name: simple_model
   - name: spend_by_login
     columns:
       - name: user_id
