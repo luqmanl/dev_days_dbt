@@ -14,3 +14,7 @@ selectors:
     definition:
       method: fqn
       value: spend_per_user
+  - name: simple_model
+    definition:
+      method: fqn
+      value: simple_model
